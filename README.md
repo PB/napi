@@ -26,6 +26,7 @@ dir3/
 
 ... and you'll call napi.sh dir* - it will go through all of them and try to download subtitles for all files inside of them.
 
+napi.sh -la ENG - download subtitle in english (default PL - polish)
 
 subotage.sh - universal subtitle format converter
 =====
@@ -73,4 +74,3 @@ Required External Tools
 - awk
 
 To check if the listed tools are available in your system and their functionality meets the subotage.sh script requirements please use the attached test_tools.sh script.
-
